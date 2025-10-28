@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🤖 Bible Study Bot")
+st.title("🤖 Joel's Bible Study Bot")
 st.success("🎉 App deployed successfully!")
 
 # Bible Verse Lookup
