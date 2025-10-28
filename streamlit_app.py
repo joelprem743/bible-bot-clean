@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 st.set_page_config(
-    page_title="Bible Study Bot",
+    page_title="Joel's Bible Study Bot",
     page_icon="📖",
     layout="wide"
 )
