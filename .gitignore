@@ -1,0 +1,22 @@
+# Parent directories
+../
+../
+../venv/
+../vmlogs/
+../useruid.ini
+../requirements.txt
+../source/
+../reacttut1/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+EOF
